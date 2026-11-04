@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>zh_TW</string>
+    <key>CFBundleDisplayName</key>
+    <string>原話</string>
+    <key>CFBundleExecutable</key>
+    <string>LocalVoiceInputMac</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleIdentifier</key>
+    <string>io.github.viviennelu712.ownwords</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>OwnWords</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.7.0</string>
+    <key>CFBundleVersion</key>
+    <string>10</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>將你主動錄製的語音在本機轉成文字。</string>
+    <key>NSInputMonitoringUsageDescription</key>
+    <string>只用來偵測你主動按住及放開說話鍵（例如右邊 Option），不記錄其他按鍵內容。</string>
+</dict>
+</plist>
