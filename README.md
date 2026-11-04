@@ -109,3 +109,7 @@ Build from source using [INSTALL_FOR_AI.md](INSTALL_FOR_AI.md): give your Claude
 Hold **Right Option** to talk and release to paste, or tap once to start and again to finish. Press Esc to cancel recording. Right Command and Fn are menu options; Right Option avoids Fn/Globe's input-source switching conflict.
 
 Source code is MIT licensed. The OwnWords / 原話 names and icon are reserved; published derivatives must use their own branding. See [LICENSE](LICENSE) and [DEVELOPMENT.md](docs/DEVELOPMENT.md).
+
+---
+
+程式碼採 [MIT 授權](LICENSE)；「OwnWords／原話」名稱與圖示另見 [NAME_AND_ICON.md](NAME_AND_ICON.md)。
