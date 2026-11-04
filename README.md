@@ -92,7 +92,7 @@ OwnWords 本身不會上傳你的錄音、辨識文字、詞庫或留底內容�
 
 ## 授權與開發
 
-程式碼採 [MIT License](LICENSE)。**「OwnWords」「原話」名稱與 OwnWords 圖示保留，不授權衍生作品沿用；公開修改版請改用自己的名稱與圖示。**第三方框架與模型各有其授權，詳見 [來源與授權盤點](docs/SOURCE_AND_LICENSE_AUDIT.md) 及 [Third-Party Notices](app/ThirdPartyNotices.txt)；盤點中的第一版敘述需配合現況閱讀。
+程式碼採 [MIT License](LICENSE)。**「OwnWords」「原話」名稱與 OwnWords 圖示保留，不授權衍生作品沿用；公開修改版請改用自己的名稱與圖示（見 [NAME_AND_ICON.md](NAME_AND_ICON.md)）。**第三方框架與模型各有其授權，詳見 [來源與授權盤點](docs/SOURCE_AND_LICENSE_AUDIT.md) 及 [Third-Party Notices](app/ThirdPartyNotices.txt)；盤點中的第一版敘述需配合現況閱讀。
 
 開發架構、建置／測試指令與舊版 README 留存於 [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md)。
 
@@ -109,7 +109,3 @@ Build from source using [INSTALL_FOR_AI.md](INSTALL_FOR_AI.md): give your Claude
 Hold **Right Option** to talk and release to paste, or tap once to start and again to finish. Press Esc to cancel recording. Right Command and Fn are menu options; Right Option avoids Fn/Globe's input-source switching conflict.
 
 Source code is MIT licensed. The OwnWords / 原話 names and icon are reserved; published derivatives must use their own branding. See [LICENSE](LICENSE) and [DEVELOPMENT.md](docs/DEVELOPMENT.md).
-
----
-
-程式碼採 [MIT 授權](LICENSE)；「OwnWords／原話」名稱與圖示另見 [NAME_AND_ICON.md](NAME_AND_ICON.md)。
